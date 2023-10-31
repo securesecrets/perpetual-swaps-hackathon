@@ -60,6 +60,13 @@ Shade Protocol and Secret Labs are both sponsoring the Hackathon with rewards an
 | Workshop 6a | Dec. 13th | Mentor Office Hours | TBD |
 | Workshop 6b | Dec. 15th | Mentor Office Hours | TBD |
 
+***Mentors***
+
+* Secret Saturn - Secret Network Foundation Developer Relations
+* SeanRad - Secret Labs Developer Relations
+* Austin Woetzel - Shade Protocol Front-end Development
+* Jackson Swenson - Shade Protocol Smart Contract Development
+
 ***Resources***
 
 Shade Protocol is an interconnected suite of DeFi primitives that provides a unified user experience for DeFi participants. Our full docs are available [here](https://docs.shadeprotocol.io/shade-protocol/). For more in depth information on the various Shade dApps, our whitepaper is [here](https://shadeprotocol.io/wp-content/uploads/2023/01/Shade-Protocol-Whitepaper.pdf). 
@@ -120,7 +127,7 @@ Requirements:
 
 Judging will be performed by a panel of 3 engineers (1 from Shade, 1 from Slabs, 1 from Secret Network Developer community)
 
-* Smart Contract Functionality (30 points):
+* Smart Contract Functionality (35 points):
   * Core Feature functionality
   * Accuracy and reliability of logic and calculating relevant metrics:
   * Security
@@ -131,7 +138,7 @@ Judging will be performed by a panel of 3 engineers (1 from Shade, 1 from Slabs,
 * Usability (30 points):
   * Necessary contract interactions using testnet front-end for full user story
   * Accurate data visualization
-* Integration and Interoperability (15 points):
+* Integration and Interoperability (20 points):
   * Compatibility with Shade dependencies, oracles, wallets, external data sources, etc
   * Interoperability with other Shade Protocol contracts
 * Documentation (15 points):
