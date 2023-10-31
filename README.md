@@ -93,6 +93,13 @@ Shade Github Links:
 * [ShadeSwap AMM pair contract](https://github.com/securesecrets/shadeswap/tree/main/contracts/amm_pair)
   * These contracts are the actual pools of funds that trades are executed on. If you are trying to conduct arbitrage, these are the contracts you want to use. Refer to the README in the amm_pair repo for more information.
 
+Relevant Smart Contract Addresses:
+
+* Query Authentication - query_auth: secret1e0k5jza9jqctc5dt7mltnxmwpu3a3kqe0a6hf3
+* Shade oracle: secret17z47r9u4nqytpdgvewxq4jqd965sfj2wpsnlak
+* Band Oracle: secret1p892w5elgy6746mq0kufpsdjr502tfl64adnx0
+* Ojo Oracle: secret1u6mtm6yk9z95w4d34dzj443h495yt3zqn8ny3p
+
 Perpetual Swap Exchange Technical Resources:
 
 * [GMX Technical Overview](https://gmx-io.notion.site/gmx-io/GMX-Technical-Overview-47fc5ed832e243afb9e97e8a4a036353)
