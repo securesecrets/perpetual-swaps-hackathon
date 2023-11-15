@@ -93,6 +93,12 @@ Shade Github Links:
 * [ShadeSwap AMM pair contract](https://github.com/securesecrets/shadeswap/tree/main/contracts/amm_pair)
   * These contracts are the actual pools of funds that trades are executed on. If you are trying to conduct arbitrage, these are the contracts you want to use. Refer to the README in the amm_pair repo for more information.
 
+Shade Software Development Kit:
+
+* [ShadeJS](https://shadejs.dev/) - Open source library for interacting with Shade Protocol smart contracts.
+  * typescript SDK that abstracts the complexity of secret client management (for queries), as well as providing simple-to-use typescript interfaces for the inputs and outputs of contracts.
+  * Also includes multi-query optimizations in order to obtain large on-chain data sets in a highly efficient manner.
+
 Relevant Smart Contract Addresses:
 
 * Query Authentication - query_auth: secret1e0k5jza9jqctc5dt7mltnxmwpu3a3kqe0a6hf3
