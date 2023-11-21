@@ -73,6 +73,8 @@ Shade Protocol is an interconnected suite of DeFi primitives that provides a uni
 
 For information on how to get started developing with secret smart contracts on Secret Network, check out the [Secret Network Developer Documentation](https://docs.scrt.network/secret-network-documentation/development/getting-started).
 
+Shade x SCRT Labs Perpetual Swap Hackathon recorded workshops: https://www.youtube.com/playlist?list=PLFEm8se77ryMielAM_RuyMSQVrum9CN5S
+
 For general education about perpetual swap exchanges, check out:
 
 * [What are Crypto Derivatives? Perpetual and Futures Contracts Explained](https://www.youtube.com/watch?v=5vW7hX6k5ho&pp=ygUPcGVycGV0dWFsIHN3YXBz)
