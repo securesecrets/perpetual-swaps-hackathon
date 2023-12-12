@@ -53,7 +53,7 @@ Shade Protocol and Secret Labs are both sponsoring the Hackathon with rewards an
 | Workshop 2b | Nov. 29th | Advanced SecretWasm Development - building complex interactions | Slabs |
 | Workshop 3a | Dec. 1st | Risk Management in DeFi | Red Eyed Bear - Shade Protocol |
 | Workshop 4a | Dec. 4th | Price Feeds and Oracle Integration | Woz - Ojo |
-| Workshop 4b | Dec. 12th | Unit Tests, Multi-tests, and other smart contract debugging strategies | Jackson Swenson - Shade Protocol |
+| Workshop 4b | Dec. 11th | Unit Tests, Multi-tests, and other smart contract debugging strategies | Jackson Swenson - Shade Protocol |
 | Workshop 5a | Dec. 13th | Front-end Development using SecretJS and Data Visualization | Austin Woetzel - Shade Protocol |
 
 ***Mentors***
